@@ -52,4 +52,4 @@ The full source code is private for business confidentiality reasons.
 This repository is intended for documentation and portfolio presentation only.
 ---
 ## 👨‍💻 Developed By
-EMIT Company – Electrical & Technical Solutions
+ALIAT Atef - Computer Vision & Software Developer
