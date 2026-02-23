@@ -47,9 +47,11 @@ Backend handles:
 - Basic server-side validation
 ---
 ## 🔒 Source Code Notice
-
 The full source code is private for business confidentiality reasons.  
 This repository is intended for documentation and portfolio presentation only.
+---
+## 📸 Screenshots
+![Homepage](screenshots/hero.png)
 ---
 ## 👨‍💻 Developed By
 ALIAT Atef - Computer Vision & Software Developer
