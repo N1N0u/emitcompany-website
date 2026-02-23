@@ -2,6 +2,9 @@
 ## 🌐 Live Website
 www.emitcompany.dz
 ---
+![Website](https://img.shields.io/website?url=https://www.emitcompany.dz)
+![GitHub stars](https://img.shields.io/github/stars/N1N0u/emitcompany-website)
+---
 ## 📌 Project Overview
 This project represents the corporate website developed for EMIT Company, a company specialized in:
 - Electrical installations
