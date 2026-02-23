@@ -1,11 +1,23 @@
 # EMIT Company Corporate Website
-## 🌐 Live Website
-www.emitcompany.dz
----
 ![Website](https://img.shields.io/website?url=https://www.emitcompany.dz)
 ![GitHub stars](https://img.shields.io/github/stars/N1N0u/emitcompany-website)
+![Last Updated](https://img.shields.io/badge/last%20updated-February%202026-blue)
 ---
-## 📌 Project Overview
+## 🌐 Live Website
+[www.emitcompany.dz](https://www.emitcompany.dz)
+
+---
+## 📌 Table of Contents
+- [About](#about)
+- [Technologies Used](#technologies-used)
+- [Key Features](#key-features)
+- [Project Architecture](#project-architecture)
+- [Screenshots](#screenshots)
+- [Source Code Notice](#source-code-notice)
+- [Developed By](#developed-by)
+
+---
+## 📌 About
 This project represents the corporate website developed for EMIT Company, a company specialized in:
 - Electrical installations
 - Electrical panel assembly
@@ -19,7 +31,7 @@ The objective of the website is to present the company’s services, expertise, 
 - HTML5
 - CSS3
 - Bootstrap 5
-- JavaScript
+- JavaScript 
 ### Backend
 - PHP (Contact form processing & server-side validation)
 ### SEO & Optimization
@@ -49,12 +61,13 @@ Backend handles:
 - Email handling
 - Basic server-side validation
 ---
+## 📸 Screenshots
+![Homepage](Screenshots/hero.png)
+---
 ## 🔒 Source Code Notice
 The full source code is private for business confidentiality reasons.  
 This repository is intended for documentation and portfolio presentation only.
 ---
-## 📸 Screenshots
-![Homepage](Screenshots/hero.png)
----
 ## 👨‍💻 Developed By
-ALIAT Atef - Computer Vision & Software Developer
+ALIAT Ate - Computer Vision & Software Developer
+_Last Updated: February 2026_
