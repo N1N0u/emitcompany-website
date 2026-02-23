@@ -68,6 +68,7 @@ Backend handles:
 The full source code is private for business confidentiality reasons.  
 This repository is intended for documentation and portfolio presentation only.
 ---
-## 👨‍💻 Developed By
-ALIAT Ate - Computer Vision & Software Developer
+## 👨‍💻 Lead Developer
+ALIAT Atef – Responsible for software development and computer vision solutions
+
 _Last Updated: February 2026_
