@@ -51,7 +51,7 @@ The full source code is private for business confidentiality reasons.
 This repository is intended for documentation and portfolio presentation only.
 ---
 ## 📸 Screenshots
-![Homepage](screenshots/hero.png)
+![Homepage](Screenshots/hero.png)
 ---
 ## 👨‍💻 Developed By
 ALIAT Atef - Computer Vision & Software Developer
