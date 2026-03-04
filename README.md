@@ -69,6 +69,6 @@ The full source code is private for business confidentiality reasons.
 This repository is intended for documentation and portfolio presentation only.
 ---
 ## 👨‍💻 Lead Developer
-ALIAT Atef – Responsible for software development and computer vision solutions
+ALIAT Atef – Responsible for software development and computer vision solutions At Emit Company
 
 _Last Updated: February 2026_
