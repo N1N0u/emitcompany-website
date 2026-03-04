@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/N1N0u/emitcompany-website)
 ![Last Updated](https://img.shields.io/badge/last%20updated-February%202026-blue)
 ---
-## 🌐 Live Website
+## 🌐 Live Website here
 [www.emitcompany.dz](https://www.emitcompany.dz)
 
 ---
